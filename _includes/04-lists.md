@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+⚠️ This is warning
+🆒 This is cool
+:octocat: CAT
+🥇 Yeah
